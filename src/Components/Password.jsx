@@ -31,7 +31,7 @@ const PasswordGenerator = () => {
     <div className="min-h-screen flex items-center justify-center bg-gray-900 text-white p-6">
       <div className="bg-gray-800 p-8 rounded-2xl shadow-xl w-full max-w-md border border-gray-700">
         <h1 className="text-3xl font-bold mb-6 text-center text-green-400">
-          🔐 Password Generator
+           Password Generator
         </h1>
 
         <div className="mb-4">
